@@ -1,5 +1,8 @@
 # 🏦 Paisabazaar Credit Risk Analysis Dashboard | Power BI
 
+<img width="479" height="266" alt="image" src="https://github.com/user-attachments/assets/da558d9c-ddbf-4380-ba3c-0aea313a1749" />
+
+
 ## 📌 Project Overview
 Developed an interactive Power BI dashboard to analyze banking customer data, credit risk indicators, and potential fraud patterns. The dashboard provides insights into customer profiles, credit scores, outstanding debt, EMI obligations, and high-risk customer segments to support data-driven decision-making.
 
